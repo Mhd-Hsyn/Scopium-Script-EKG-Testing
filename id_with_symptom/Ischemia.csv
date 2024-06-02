@@ -1,0 +1,23 @@
+,Chest Pain,question
+0,Pressure,7bd78b32-03c0-4c28-9208-f4e9c2967558
+1,Squeezing,7bd78b32-03c0-4c28-9208-f4e9c2967558
+2,Central,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+3,Heaviness,7bd78b32-03c0-4c28-9208-f4e9c2967558
+4,Tightness,7bd78b32-03c0-4c28-9208-f4e9c2967558
+5,Exertional,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+6,Retrosternal,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+7,Left side,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+8,Dull,7bd78b32-03c0-4c28-9208-f4e9c2967558
+9,Left arm,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+10,Nitrate relief,a381f85e-7da2-433c-b392-c315c1886e67
+11,HR>100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+12,Sbp>140,ae18f576-c22e-4c27-a1ef-32e2401e1285
+13,Diaphoresis,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+14,DM,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+15,GreaterCRF's,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+16,TOB,c60b0a04-c681-4e18-874d-5e235470d6c4
+17,Age < 20,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+18,Age > 65,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+19,Infarct,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+20,CAD,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+21,CHF,4a2475c9-4bd5-4c33-95e2-216aa444dbb6

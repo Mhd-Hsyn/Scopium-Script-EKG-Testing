@@ -1,0 +1,12 @@
+Disease,Live Total Count,Beta Total Count,Live Pass Count,Beta Pass Count,Live Fail Count,Beta Fail Count
+Pulmonary,183,183,183,183,0,0
+AS/AI,200,200,24,200,176,0
+Pericarditis,189,189,144,189,45,0
+Aortic Dissection,174,174,140,172,34,2
+Eso rupture,185,185,0,181,185,4
+Ischemia,179,179,158,149,21,30
+GI,150,150,95,145,55,5
+CHF,177,177,165,175,12,2
+Infarct,188,188,188,182,0,6
+MS,183,183,181,183,2,0
+PE,192,192,192,190,0,2

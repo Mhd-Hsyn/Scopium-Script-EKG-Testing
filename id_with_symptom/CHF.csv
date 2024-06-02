@@ -1,0 +1,18 @@
+,Chest Pain,question
+0,Exertional,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+1,Gradual,a381f85e-7da2-433c-b392-c315c1886e67
+2,Cough,eaef8a83-95b8-4239-bebd-8685b525d809
+3,Short of breath,eaef8a83-95b8-4239-bebd-8685b525d809
+4,RR>20,ae18f576-c22e-4c27-a1ef-32e2401e1285
+5,O2sat < 90,ae18f576-c22e-4c27-a1ef-32e2401e1285
+6,S3,748e528a-da0d-4054-b78d-aa9dd2f74990
+7,Rales,b067db34-139f-40b9-841b-7347a464ec0e
+8,JVD> 4cm,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+9,Edema,c204e54c-49f9-465b-a98b-88fff8311a77
+10,HTN,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+11,CP1Day,9018fc95-6eb2-4db5-8a4c-2ec88fa74323
+12,Age < 20,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+13,Age > 65,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+14,Infarct,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+15,CAD,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+16,CHF,4a2475c9-4bd5-4c33-95e2-216aa444dbb6

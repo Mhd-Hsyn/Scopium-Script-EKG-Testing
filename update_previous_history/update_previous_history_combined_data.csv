@@ -1,0 +1,5 @@
+AS_AI_0.39_chestpain,CHF_0.39_chestpain,PE_0.39_chestpain,MS_0.39_chestpain,Aortic Dissection_0.39_chestpain,Pericarditis_0.39_chestpain,GI_0.39_chestpain,Eso rupture_0.39_chestpain,Pulmonary_0.39_chestpain,Ischemia_0.39_chestpain,Infarct_0.39_chestpain
+AS/AI,Infarct,PE/DVT,Musculoskeletal,Aortic dissection,Pericarditis,G.I.,Esophagus,COPD,Infarct,Infarct
+,CAD,Coagulopathy,,CTD,Auto immune,,,,CAD,CAD
+,CHF,,,,,,,,CHF,CHF
+,AS/AI,,,,,,,,,

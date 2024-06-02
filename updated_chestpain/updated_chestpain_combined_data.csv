@@ -1,0 +1,15 @@
+Infarct_0.8_chestpain,CHF_0.6_chestpain,AS_AI_0.6_chestpain,Pulmonary_0.7_chestpain,MS_0.75_chestpain,PE_0.8_chestpain,Eso rupture_0.8_chestpain,Ischemia_0.8_chestpain,Pericarditis_0.75_chestpain,Aortic Dissection_0.8_chestpain,GI_0.75_chestpain
+Pressure,Exertional,Pressure,Exertional,Sharp,Stabbing,Retrosternal,Pressure,Retrosternal,Pressure,Stomach
+Squeezing,Gradual,Squeezing,Gradual,Positional,Pleuritic,Severe,Squeezing,Burning,Central,Vomiting
+Central,Cough,Tightness,Fever,Tender,Sudden,Localised,Central,Pleuritic,Gripping,Acid reflux
+Heaviness,Short of breath,Exertional,Cough,Seconds,Short of breath,Acid reflux,Heaviness,Positional,Retrosternal,Eating
+Tightness,,Dull,Short of breath,Hours,,Persistent,Tightness,Radiates,Tearing,
+Exertional,,Nitrate relief,,,,,Exertional,Severe,Ripping,
+Retrosternal,,,,,,,Retrosternal,Diffuse,Radiates,
+Left side,,,,,,,Left side,Persistent,Severe,
+Dull,,,,,,,Dull,,Onset at rest,
+Left arm,,,,,,,Left arm,,Radiating to Back,
+Severe,,,,,,,Nitrate relief,,Splitting,
+Sweating,,,,,,,,,Persistent,
+Nausea,,,,,,,,,,
+Persistent,,,,,,,,,,

@@ -1,0 +1,6 @@
+Infarct_0.8_chestpain,CHF_0.6_chestpain,Pericarditis_0.49_chestpain,Pulmonary_0.59_chestpain,PE_0.8_chestpain,AS_AI_0.73_chestpain,Ischemia_0.8_chestpain,GI_0.5_chestpain,MS_0.5_chestpain,Aortic Dissection_0.8_chestpain,Eso rupture_0.59_chestpain
+DM,HTN,Age < 20,Age < 20,Calf pain/swell,HTN,DM,Age < 30,Age < 30,HTN,CP1Day
+GreaterCRF's,CP1Day,Age < 50,Age < 50,Travel,Age < 20,GreaterCRF's,,Age < 40,CP1Day,Age < 20
+TOB,Age < 20,Age < 60,Age < 60,Bed ridden,Age < 60,TOB,,,Age < 20,Age < 60
+Age < 20,Age > 65,Age > 65,Age > 65,Recent surgery ,Age > 65,Age < 20,,,Age > 65,Age > 65
+Age > 65,,,,,,Age > 65,,,,

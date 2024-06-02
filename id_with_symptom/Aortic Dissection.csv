@@ -1,0 +1,23 @@
+,Chest Pain,question
+0,Pressure,7bd78b32-03c0-4c28-9208-f4e9c2967558
+1,Central,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+2,Gripping,7bd78b32-03c0-4c28-9208-f4e9c2967558
+3,Retrosternal,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+4,Tearing,7bd78b32-03c0-4c28-9208-f4e9c2967558
+5,Ripping,7bd78b32-03c0-4c28-9208-f4e9c2967558
+6,Radiates,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+7,Severe,a381f85e-7da2-433c-b392-c315c1886e67
+8,Onset at rest,a381f85e-7da2-433c-b392-c315c1886e67
+9,Radiating to Back,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+10,Splitting,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+11,Persistent,8b44d89a-380a-4316-a7e7-2ded6bd9a6dc
+12,HR>100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+13,Sbp>140,ae18f576-c22e-4c27-a1ef-32e2401e1285
+14,Un= pulses,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+15,BP differential,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+16,HTN,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+17,CP1Day,9018fc95-6eb2-4db5-8a4c-2ec88fa74323
+18,Age < 20,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+19,Age > 65,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+20,Aortic dissection,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+21,CTD,485db50b-bff2-4714-8120-d8ffe75ba497

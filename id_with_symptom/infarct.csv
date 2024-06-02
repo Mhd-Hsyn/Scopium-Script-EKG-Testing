@@ -1,0 +1,26 @@
+,Chest Pain,question
+0,Pressure,7bd78b32-03c0-4c28-9208-f4e9c2967558
+1,Squeezing,7bd78b32-03c0-4c28-9208-f4e9c2967558
+2,Central,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+3,Heaviness,7bd78b32-03c0-4c28-9208-f4e9c2967558
+4,Tightness,7bd78b32-03c0-4c28-9208-f4e9c2967558
+5,Exertional,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+6,Retrosternal,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+7,Left side,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+8,Dull,7bd78b32-03c0-4c28-9208-f4e9c2967558
+9,Left arm,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+10,Severe,a381f85e-7da2-433c-b392-c315c1886e67
+11,Sweating,7bd78b32-03c0-4c28-9208-f4e9c2967558
+12,Nausea,0cf99e50-3b21-4219-b921-80d062d5bf5c
+13,Persistent,8b44d89a-380a-4316-a7e7-2ded6bd9a6dc
+14,HR>100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+15,Sbp>140,ae18f576-c22e-4c27-a1ef-32e2401e1285
+16,Diaphoresis,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+17,DM,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+18,GreaterCRF's,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+19,TOB,c60b0a04-c681-4e18-874d-5e235470d6c4
+20,Age < 20,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+21,Age > 65,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+22,Infarct,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+23,CAD,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+24,CHF,4a2475c9-4bd5-4c33-95e2-216aa444dbb6

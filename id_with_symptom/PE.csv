@@ -1,0 +1,17 @@
+,Chest Pain,question
+0,Stabbing,7bd78b32-03c0-4c28-9208-f4e9c2967558
+1,Pleuritic,7bd78b32-03c0-4c28-9208-f4e9c2967558
+2,Sudden,a381f85e-7da2-433c-b392-c315c1886e67
+3,Short of breath,eaef8a83-95b8-4239-bebd-8685b525d809
+4,HR>100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+5,RR>20,ae18f576-c22e-4c27-a1ef-32e2401e1285
+6,Sbp< 100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+7,O2sat < 90,ae18f576-c22e-4c27-a1ef-32e2401e1285
+8,R S3,748e528a-da0d-4054-b78d-aa9dd2f74990
+9,Pleural Rub,b067db34-139f-40b9-841b-7347a464ec0e
+10,Calf pain/swell,55183609-0757-46f4-9fb2-3bc83e9cbbc8
+11,Travel,c60b0a04-c681-4e18-874d-5e235470d6c4
+12,Bed ridden,1f2efe0a-7a1b-4936-8452-fa6ca2d7f59e
+13,Recent surgery ,1f2efe0a-7a1b-4936-8452-fa6ca2d7f59e
+14,PE/DVT,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+15,Coagulopathy,edbced7f-8455-4d5c-b449-519543411139

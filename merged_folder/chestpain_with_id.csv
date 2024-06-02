@@ -1,0 +1,113 @@
+Chest Pain,question
+Pressure,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Squeezing,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Central,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Gripping,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Heaviness,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Tightness,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Exertional,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Retrosternal,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Left side,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Dull,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Ache,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Stabbing,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Right side,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Tearing,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Ripping,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Burning,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Boring,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Sharp,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Pleuritic,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Positional,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Fleeting,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Radiates,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Jaw,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Left arm,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Right arm,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Sudden,a381f85e-7da2-433c-b392-c315c1886e67
+Gradual,a381f85e-7da2-433c-b392-c315c1886e67
+Severe,a381f85e-7da2-433c-b392-c315c1886e67
+Subacute,a381f85e-7da2-433c-b392-c315c1886e67
+Onset at rest,a381f85e-7da2-433c-b392-c315c1886e67
+Sweating,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Nitrate relief,a381f85e-7da2-433c-b392-c315c1886e67
+Fever,eaef8a83-95b8-4239-bebd-8685b525d809
+Cough,eaef8a83-95b8-4239-bebd-8685b525d809
+Short of breath,eaef8a83-95b8-4239-bebd-8685b525d809
+Localised,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Radiating to Back,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+Stomach,0cf99e50-3b21-4219-b921-80d062d5bf5c
+Tender,7bd78b32-03c0-4c28-9208-f4e9c2967558
+Throat,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Diffuse,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Splitting,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Seconds,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Minutes,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Hours,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Days,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Weeks,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Months,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Years,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+Nausea,0cf99e50-3b21-4219-b921-80d062d5bf5c
+Vomiting,0cf99e50-3b21-4219-b921-80d062d5bf5c
+Syncope,a381f85e-7da2-433c-b392-c315c1886e67
+Acid reflux,0cf99e50-3b21-4219-b921-80d062d5bf5c
+Improvement with Bending,0cf99e50-3b21-4219-b921-80d062d5bf5c
+Persistent,8b44d89a-380a-4316-a7e7-2ded6bd9a6dc
+Intermittent,8b44d89a-380a-4316-a7e7-2ded6bd9a6dc
+Eating,8b44d89a-380a-4316-a7e7-2ded6bd9a6dc
+HR>100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+T>100.4,ae18f576-c22e-4c27-a1ef-32e2401e1285
+RR>20,ae18f576-c22e-4c27-a1ef-32e2401e1285
+Sbp>140,ae18f576-c22e-4c27-a1ef-32e2401e1285
+Sbp< 100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+O2sat < 90,ae18f576-c22e-4c27-a1ef-32e2401e1285
+S3,748e528a-da0d-4054-b78d-aa9dd2f74990
+R S3,748e528a-da0d-4054-b78d-aa9dd2f74990
+Murmur systolic,748e528a-da0d-4054-b78d-aa9dd2f74990
+Murmur Diastolic,748e528a-da0d-4054-b78d-aa9dd2f74990
+Pericardial rub,748e528a-da0d-4054-b78d-aa9dd2f74990
+Pleural Rub,b067db34-139f-40b9-841b-7347a464ec0e
+Rales,b067db34-139f-40b9-841b-7347a464ec0e
+CTA,b067db34-139f-40b9-841b-7347a464ec0e
+JVD> 4cm,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+Diaphoresis,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+Low carotid puls,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+Un= pulses,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+Edema,c204e54c-49f9-465b-a98b-88fff8311a77
+Abd tender,c204e54c-49f9-465b-a98b-88fff8311a77
+Point tender,c204e54c-49f9-465b-a98b-88fff8311a77
+Rhonchi/wheeze,c5b18491-4744-4bf2-b2ca-26bdcb3202b1
+BP differential,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+Infarct,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+CAD,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+Aortic dissection,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+PE/DVT,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+CHF,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+Pericarditis,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+AS/AI,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+COPD,2285dad6-2356-48d3-8c29-e7febad3e7b2
+Esophagus,b011bf8d-498c-46dd-9b34-454a0b66ffbc
+Musculoskeletal,09d15736-d06b-4037-99b5-3d36b1c593b3
+G.I.,e1c4cf65-cdbb-4b52-ba6e-8c4c006a72a0
+CTD,485db50b-bff2-4714-8120-d8ffe75ba497
+Auto immune,485db50b-bff2-4714-8120-d8ffe75ba497
+Coagulopathy,edbced7f-8455-4d5c-b449-519543411139
+DM,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+HTN,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+HLD,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+FH,9c1eac58-d947-42db-811a-d41a82171cfc
+GreaterCRF's,881ba1b1-1c32-4b1c-b02f-203f0487e20a
+CP1Day,9018fc95-6eb2-4db5-8a4c-2ec88fa74323
+TOB,c60b0a04-c681-4e18-874d-5e235470d6c4
+ASA,32461201-ef6b-4488-bc93-8f7fa6c05b2f
+Calf pain/swell,55183609-0757-46f4-9fb2-3bc83e9cbbc8
+Travel,c60b0a04-c681-4e18-874d-5e235470d6c4
+Bed ridden,1f2efe0a-7a1b-4936-8452-fa6ca2d7f59e
+Recent surgery ,1f2efe0a-7a1b-4936-8452-fa6ca2d7f59e
+Age < 20,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+Age < 30,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+Age < 40,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+Age < 50,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+Age < 60,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+Age > 65,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e

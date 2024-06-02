@@ -1,0 +1,21 @@
+diseasesname,symtoms,output,modeloutput,status,graph_image
+Pericarditis,"Diaphoresis, Persistent, Pericarditis, Age>65, Age<50, Positional, Pericardial rub, Severe",Pericarditis,"Ischemia, Infarct",fail,images/graph_1_live.png
+Ischemia,"Retrosternal, Heaviness, Pressure, Age<20, Central, Exertional",Ischemia,"Ischemia, Infarct",pass,images/graph_2_live.png
+Aortic Dissection,"Splitting, Central, Retrosternal, CP1Day (cytopathologists), Un= pulses (unequal pulse)",Aortic Dissection,"Ischemia, Infarct",fail,images/graph_3_live.png
+infarct,"Nausea, DM (Diabetes mellitus), Central, Severe, Age>65, GreaterCRF's",infarct,"Ischemia, Infarct",fail,images/graph_4_live.png
+PE,"Stabbing, HR>100 (heart rate greater than 100), PE/DVT (Deep Vein Thrombosis and Pulmonary Embolism), Sbp< 100, RR>20 (respiratory rate is greater than 20), O2sat < 90 (oxygen saturation level is less than 90), Calf pain/swell",PE,"Ischemia, Infarct",fail,images/graph_5_live.png
+Aortic Dissection,"CP1Day (cytopathologists), Splitting, Un= pulses (unequal pulse), Age<20, Radiating to Back, Tearing, Onset at rest",Aortic Dissection,"Ischemia, Infarct",fail,images/graph_6_live.png
+PE,"Sbp< 100, Sudden, Short of breath, Recent surgery , O2sat < 90 (oxygen saturation level is less than 90), Bed ridden",PE,"Ischemia, Infarct",fail,images/graph_7_live.png
+Pericarditis,"Age<60, Age<20, JVD> 4cm (jugular venous distension greater than 4 centimeters), Pleuritic, Severe, Retrosternal, Age>65, Pericarditis",Pericarditis,"Ischemia, Infarct",fail,images/graph_8_live.png
+Pulmonary,"Cough, RR>20 (respiratory rate is greater than 20), HR>100 (heart rate greater than 100), Age<60, Gradual, Exertional, COPD (Chronic obstructive pulmonary disease), Pleural Rub",Pulmonary,"Ischemia, Infarct",fail,images/graph_9_live.png
+Ischemia,"CHF (congestive heart failure), Left arm, Heaviness, GreaterCRF's (Chronic renal failure), Retrosternal",Ischemia,"Ischemia, Infarct",pass,images/graph_10_live.png
+Pericarditis,"Diaphoresis, Radiates, Age<50, Severe, JVD> 4cm (jugular venous distension greater than 4 centimeters), Persistent",Pericarditis,"Ischemia, Infarct",fail,images/graph_11_live.png
+infarct,"GreaterCRF's, CHF (congestive heart failure), Squeezing, Left side, Tightness, Infarct, Persistent, Diaphoresis",infarct,"Ischemia, Infarct",fail,images/graph_12_live.png
+Pulmonary,"Short of breath, Gradual, RR>20 (respiratory rate is greater than 20), Age<60, T>100.4 (temperature is greater than 100.4), Age<50",Pulmonary,"Ischemia, Infarct",fail,images/graph_13_live.png
+infarct,"Persistent, Left arm, TOB (Tobacco), Sweating, Nausea, Retrosternal",infarct,"Ischemia, Infarct",fail,images/graph_14_live.png
+Eso rupture,"Cough, Age<50, T>100.4 (temperature is greater than 100.4), Fever, Pleural Rub, Age>65, Gradual",Eso rupture,"Ischemia, Infarct",fail,images/graph_15_live.png
+Pulmonary,"Exertional, HR>100 (heart rate greater than 100), Age>65, Age<60, Cough, Pleural Rub, COPD (Chronic obstructive pulmonary disease), O2sat < 90 (oxygen saturation level is less than 90)",Pulmonary,"Ischemia, Infarct",fail,images/graph_16_live.png
+Eso rupture,"T>100.4 (temperature is greater than 100.4), Age<50, RR>20 (respiratory rate is greater than 20), HR>100 (heart rate greater than 100), O2sat < 90 (oxygen saturation level is less than 90), Cough",Eso rupture,"Ischemia, Infarct",fail,images/graph_17_live.png
+Ischemia,"Diaphoresis, Infarct, CAD, Pressure, Sbp>140 (systolic blood pressure is greater than 140), GreaterCRF's (Chronic renal failure), Age>65, Retrosternal",Ischemia,"Ischemia, Infarct",pass,images/graph_18_live.png
+Pulmonary,"Fever, Pleural Rub, Cough, T>100.4 (temperature is greater than 100.4), Gradual, Age<20, HR>100 (heart rate greater than 100), O2sat < 90 (oxygen saturation level is less than 90)",Pulmonary,"Ischemia, Infarct",fail,images/graph_19_live.png
+Eso rupture,"COPD (Chronic obstructive pulmonary disease), Pleural Rub, Gradual, Age<60, Fever",Eso rupture,"Ischemia, Infarct",fail,images/graph_20_live.png

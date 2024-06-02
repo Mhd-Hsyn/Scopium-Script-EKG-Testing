@@ -1,0 +1,19 @@
+,Chest Pain,question
+0,Retrosternal,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+1,Burning,7bd78b32-03c0-4c28-9208-f4e9c2967558
+2,Pleuritic,7bd78b32-03c0-4c28-9208-f4e9c2967558
+3,Positional,7bd78b32-03c0-4c28-9208-f4e9c2967558
+4,Radiates,9cf10e77-00db-4ea9-bdca-c2e0d04c101b
+5,Severe,a381f85e-7da2-433c-b392-c315c1886e67
+6,Diffuse,4d7fe80d-76db-4fce-8560-4cd7f83e9225
+7,Persistent,8b44d89a-380a-4316-a7e7-2ded6bd9a6dc
+8,HR>100,ae18f576-c22e-4c27-a1ef-32e2401e1285
+9,Pericardial rub,748e528a-da0d-4054-b78d-aa9dd2f74990
+10,JVD> 4cm,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+11,Diaphoresis,1b2d7a50-a47c-40c3-afd5-cce46c52ac43
+12,Age < 20,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+13,Age < 50,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+14,Age < 60,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+15,Age > 65,ad9b04e6-e4f5-4e3a-bd5d-eb2ab1acb75e
+16,Pericarditis,4a2475c9-4bd5-4c33-95e2-216aa444dbb6
+17,Auto immune,485db50b-bff2-4714-8120-d8ffe75ba497

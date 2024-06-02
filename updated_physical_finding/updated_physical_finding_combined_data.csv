@@ -1,0 +1,7 @@
+AS_AI_0.69_chestpain,Ischemia_0.49_chestpain,GI_0.05_chestpain,MS_0.05_chestpain,CHF_0.8_chestpain,PE_0.69_chestpain,Pulmonary_0.69_chestpain,Eso rupture_0.05_chestpain,Infarct_0.69_chestpain,Aortic Dissection_0.69_chestpain,Pericarditis_0.59_chestpain
+Sbp< 100,HR>100,Abd tender,Point tender,RR>20,HR>100,HR>100,HR>100,HR>100,HR>100,HR>100
+Murmur systolic,Sbp>140,,,O2sat < 90,RR>20,T>100.4,Abd tender,Sbp>140,Sbp>140,Pericardial rub
+Murmur Diastolic,Diaphoresis,,,S3,Sbp< 100,RR>20,,Diaphoresis,Un= pulses,JVD> 4cm
+Rales,,,,Rales,O2sat < 90,O2sat < 90,,,BP differential,Diaphoresis
+Low carotid puls,,,,JVD> 4cm,R S3,Pleural Rub,,,,
+,,,,Edema,Pleural Rub,,,,,
